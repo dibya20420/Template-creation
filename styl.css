@@ -30,7 +30,7 @@
 
 .btnh{
     background-color: white;
-    max-width: 120px;
+    width: 100px;
     max-height: 50px;
     border: unset;
     color: black;
@@ -121,8 +121,8 @@
 .right{
     position: absolute;
     display: flex;
-    margin-top: -350px;
-    margin-left: 1000px;
+    margin-top: -450px;
+    margin-left: 700px;
 }
 .thrd-segment{
     padding-top: 64px;
@@ -130,6 +130,14 @@
     background-color: #f1f1f1!important;
     width: 97.9vw;
     height: 30vh;
-    
+}
+img{
+    margin-left: 300px;
+    margin-top: 100px;
+    width: 15%;
+    height:auto;
+}
+.mainlineTwo{
+    margin-top: 0px;
 }
 
